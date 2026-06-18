@@ -1,0 +1,12 @@
+# Normalize line endings automatically
+* text=auto
+
+# C# / project files
+*.cs      text diff=csharp
+*.csproj  text
+*.slnx    text
+*.sln     text
+*.md      text
+
+# Binary files
+*.png     binary

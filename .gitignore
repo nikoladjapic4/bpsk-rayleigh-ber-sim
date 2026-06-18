@@ -1,0 +1,36 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+
+# Visual Studio / Rider caches
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# .NET
+project.lock.json
+*.nuget.props
+*.nuget.targets
+artifacts/
+
+# Test / coverage
+[Tt]est[Rr]esult*/
+coverage*.json
+*.coverage
+
+# Generated simulation output
+*_BER.csv
+BER.png
+
+# OS junk
+.DS_Store
+Thumbs.db
