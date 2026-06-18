@@ -1,4 +1,4 @@
-# BPSK preko Rejlijevog feding kanala — Monte Karlo simulacija BER-a
+# BPSK preko Rejlijevog feding kanala uz Monte Karlo simulacija BER-a
 
 Konzolna aplikacija u C#-u koja Monte Karlo metodom procenjuje **verovatnoću greške
 po bitu (BER)** za BPSK prenos kroz radio kanal sa Rejlijevim fedingom i belim
